@@ -1,4 +1,5 @@
 # Smart Shovel – AI-assisted safety shovel concept
+![CI](https://github.com/SvetLuna-Lab/Smart-shovel-ai/actions/workflows/ci.yml/badge.svg)
 
 **Smart Shovel** is a concept of a semi-robotic hand tool  
 designed to reduce physical load and improve safety during digging work.
